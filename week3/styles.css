@@ -1,0 +1,37 @@
+body {
+  background-color: yellow;
+}
+
+header {
+  background-color: blue;
+  color: #ffffff;
+  margin: 50px;
+  padding: 10px;
+  text-align: center;
+  border: 5px solid #000000;
+  border-radius: 20px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: greenyellow;
+}
+
+.hello {
+  color: red;
+}
+
+.image img {
+  width: 300px;
+  border-radius: 50%;
+  border: 3px dashed orange;
+}
+
+footer {
+  background-color: red;
+  color: white;
+  font-style: italic;
+  font-size: 50px;
+}
